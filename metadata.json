@@ -1,0 +1,14 @@
+{
+  "name": "openstack-policy",
+  "version": "0.1.0",
+  "author": "Sascha Spreitzer",
+  "summary": "Puppet module to manage OpenStack policies",
+  "license": "Apache-2.0",
+  "source": "https://github.com/sspreitzer/puppet-policy.git",
+  "project_page": "https://github.com/sspreitzer/puppet-policy",
+  "issues_url": "https://github.com/sspreitzer/puppet-policy/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}

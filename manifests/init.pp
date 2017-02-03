@@ -1,0 +1,2 @@
+# policy
+class policy {}
